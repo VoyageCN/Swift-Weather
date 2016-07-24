@@ -12,6 +12,26 @@
 		342D38B31D4382F100EB6566 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 342D38B11D4382F100EB6566 /* Main.storyboard */; };
 		342D38B51D4382F100EB6566 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 342D38B41D4382F100EB6566 /* Assets.xcassets */; };
 		342D38B81D4382F100EB6566 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 342D38B61D4382F100EB6566 /* LaunchScreen.storyboard */; };
+		342D38D31D43943C00EB6566 /* 4s-fullsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C01D43943C00EB6566 /* 4s-fullsize.png */; };
+		342D38D41D43943C00EB6566 /* 4s-smallsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C11D43943C00EB6566 /* 4s-smallsize.png */; };
+		342D38D51D43943C00EB6566 /* 5s-fullsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C21D43943C00EB6566 /* 5s-fullsize.png */; };
+		342D38D61D43943C00EB6566 /* 5s-smallsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C31D43943C00EB6566 /* 5s-smallsize.png */; };
+		342D38D71D43943C00EB6566 /* 6-fullsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C41D43943C00EB6566 /* 6-fullsize.png */; };
+		342D38D81D43943C00EB6566 /* 6-smallsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C51D43943C00EB6566 /* 6-smallsize.png */; };
+		342D38D91D43943C00EB6566 /* 6-Today-fullsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C61D43943C00EB6566 /* 6-Today-fullsize.png */; };
+		342D38DA1D43943C00EB6566 /* 6-Today-smallsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C71D43943C00EB6566 /* 6-Today-smallsize.png */; };
+		342D38DB1D43943C00EB6566 /* 6plus-fullsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C81D43943C00EB6566 /* 6plus-fullsize.png */; };
+		342D38DC1D43943C00EB6566 /* 6plus-smallsize.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38C91D43943C00EB6566 /* 6plus-smallsize.png */; };
+		342D38DD1D43943C00EB6566 /* Custom-UIView.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38CA1D43943C00EB6566 /* Custom-UIView.png */; };
+		342D38DE1D43943C00EB6566 /* IBDesignable-IBInspectable.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38CB1D43943C00EB6566 /* IBDesignable-IBInspectable.png */; };
+		342D38DF1D43943C00EB6566 /* loading-33.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38CC1D43943C00EB6566 /* loading-33.png */; };
+		342D38E01D43943C00EB6566 /* Loading.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38CD1D43943C00EB6566 /* Loading.png */; };
+		342D38E11D43943C00EB6566 /* SketchDesign.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38CE1D43943C00EB6566 /* SketchDesign.png */; };
+		342D38E21D43943C00EB6566 /* Swift Weather.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38CF1D43943C00EB6566 /* Swift Weather.png */; };
+		342D38E31D43943C00EB6566 /* Swift-Weather-33.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38D01D43943C00EB6566 /* Swift-Weather-33.png */; };
+		342D38E41D43943C00EB6566 /* UIStackView-with-Size-Classes.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38D11D43943C00EB6566 /* UIStackView-with-Size-Classes.png */; };
+		342D38E51D43943C00EB6566 /* UIStackView.png in Resources */ = {isa = PBXBuildFile; fileRef = 342D38D21D43943C00EB6566 /* UIStackView.png */; };
+		B0888650F4697C8EBA4394ED /* Pods_Swift_Weather.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 486A1A9B7DCA30928E3A5247 /* Pods_Swift_Weather.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +42,28 @@
 		342D38B41D4382F100EB6566 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		342D38B71D4382F100EB6566 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		342D38B91D4382F100EB6566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		342D38C01D43943C00EB6566 /* 4s-fullsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4s-fullsize.png"; sourceTree = "<group>"; };
+		342D38C11D43943C00EB6566 /* 4s-smallsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4s-smallsize.png"; sourceTree = "<group>"; };
+		342D38C21D43943C00EB6566 /* 5s-fullsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5s-fullsize.png"; sourceTree = "<group>"; };
+		342D38C31D43943C00EB6566 /* 5s-smallsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5s-smallsize.png"; sourceTree = "<group>"; };
+		342D38C41D43943C00EB6566 /* 6-fullsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6-fullsize.png"; sourceTree = "<group>"; };
+		342D38C51D43943C00EB6566 /* 6-smallsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6-smallsize.png"; sourceTree = "<group>"; };
+		342D38C61D43943C00EB6566 /* 6-Today-fullsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6-Today-fullsize.png"; sourceTree = "<group>"; };
+		342D38C71D43943C00EB6566 /* 6-Today-smallsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6-Today-smallsize.png"; sourceTree = "<group>"; };
+		342D38C81D43943C00EB6566 /* 6plus-fullsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6plus-fullsize.png"; sourceTree = "<group>"; };
+		342D38C91D43943C00EB6566 /* 6plus-smallsize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6plus-smallsize.png"; sourceTree = "<group>"; };
+		342D38CA1D43943C00EB6566 /* Custom-UIView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Custom-UIView.png"; sourceTree = "<group>"; };
+		342D38CB1D43943C00EB6566 /* IBDesignable-IBInspectable.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IBDesignable-IBInspectable.png"; sourceTree = "<group>"; };
+		342D38CC1D43943C00EB6566 /* loading-33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loading-33.png"; sourceTree = "<group>"; };
+		342D38CD1D43943C00EB6566 /* Loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Loading.png; sourceTree = "<group>"; };
+		342D38CE1D43943C00EB6566 /* SketchDesign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SketchDesign.png; sourceTree = "<group>"; };
+		342D38CF1D43943C00EB6566 /* Swift Weather.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift Weather.png"; sourceTree = "<group>"; };
+		342D38D01D43943C00EB6566 /* Swift-Weather-33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift-Weather-33.png"; sourceTree = "<group>"; };
+		342D38D11D43943C00EB6566 /* UIStackView-with-Size-Classes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UIStackView-with-Size-Classes.png"; sourceTree = "<group>"; };
+		342D38D21D43943C00EB6566 /* UIStackView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UIStackView.png; sourceTree = "<group>"; };
+		486A1A9B7DCA30928E3A5247 /* Pods_Swift_Weather.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Swift_Weather.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5CDCC53A498A4D948334A9A9 /* Pods-Swift Weather.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift Weather.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Swift Weather/Pods-Swift Weather.debug.xcconfig"; sourceTree = "<group>"; };
+		EDCB0B59DBCCD54D7E6E721B /* Pods-Swift Weather.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift Weather.release.xcconfig"; path = "Pods/Target Support Files/Pods-Swift Weather/Pods-Swift Weather.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0888650F4697C8EBA4394ED /* Pods_Swift_Weather.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +83,8 @@
 			children = (
 				342D38AC1D4382F100EB6566 /* Swift Weather */,
 				342D38AB1D4382F100EB6566 /* Products */,
+				DEA797662AEB3C70E334C09D /* Pods */,
+				BF0761F730FA370726A88B46 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,10 +103,54 @@
 				342D38AF1D4382F100EB6566 /* ViewController.swift */,
 				342D38B11D4382F100EB6566 /* Main.storyboard */,
 				342D38B41D4382F100EB6566 /* Assets.xcassets */,
+				342D38BF1D43943C00EB6566 /* screenshots */,
 				342D38B61D4382F100EB6566 /* LaunchScreen.storyboard */,
 				342D38B91D4382F100EB6566 /* Info.plist */,
 			);
 			path = "Swift Weather";
+			sourceTree = "<group>";
+		};
+		342D38BF1D43943C00EB6566 /* screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				342D38C01D43943C00EB6566 /* 4s-fullsize.png */,
+				342D38C11D43943C00EB6566 /* 4s-smallsize.png */,
+				342D38C21D43943C00EB6566 /* 5s-fullsize.png */,
+				342D38C31D43943C00EB6566 /* 5s-smallsize.png */,
+				342D38C41D43943C00EB6566 /* 6-fullsize.png */,
+				342D38C51D43943C00EB6566 /* 6-smallsize.png */,
+				342D38C61D43943C00EB6566 /* 6-Today-fullsize.png */,
+				342D38C71D43943C00EB6566 /* 6-Today-smallsize.png */,
+				342D38C81D43943C00EB6566 /* 6plus-fullsize.png */,
+				342D38C91D43943C00EB6566 /* 6plus-smallsize.png */,
+				342D38CA1D43943C00EB6566 /* Custom-UIView.png */,
+				342D38CB1D43943C00EB6566 /* IBDesignable-IBInspectable.png */,
+				342D38CC1D43943C00EB6566 /* loading-33.png */,
+				342D38CD1D43943C00EB6566 /* Loading.png */,
+				342D38CE1D43943C00EB6566 /* SketchDesign.png */,
+				342D38CF1D43943C00EB6566 /* Swift Weather.png */,
+				342D38D01D43943C00EB6566 /* Swift-Weather-33.png */,
+				342D38D11D43943C00EB6566 /* UIStackView-with-Size-Classes.png */,
+				342D38D21D43943C00EB6566 /* UIStackView.png */,
+			);
+			path = screenshots;
+			sourceTree = "<group>";
+		};
+		BF0761F730FA370726A88B46 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				486A1A9B7DCA30928E3A5247 /* Pods_Swift_Weather.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DEA797662AEB3C70E334C09D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5CDCC53A498A4D948334A9A9 /* Pods-Swift Weather.debug.xcconfig */,
+				EDCB0B59DBCCD54D7E6E721B /* Pods-Swift Weather.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +160,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 342D38BC1D4382F100EB6566 /* Build configuration list for PBXNativeTarget "Swift Weather" */;
 			buildPhases = (
+				973D57BD98166D5A77B7E85F /* [CP] Check Pods Manifest.lock */,
 				342D38A61D4382F100EB6566 /* Sources */,
 				342D38A71D4382F100EB6566 /* Frameworks */,
 				342D38A81D4382F100EB6566 /* Resources */,
+				FA767EE142B086387578561E /* [CP] Embed Pods Frameworks */,
+				F7EB7DF2F78A8F921236511F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,13 +215,80 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				342D38DA1D43943C00EB6566 /* 6-Today-smallsize.png in Resources */,
+				342D38E01D43943C00EB6566 /* Loading.png in Resources */,
+				342D38D91D43943C00EB6566 /* 6-Today-fullsize.png in Resources */,
+				342D38DF1D43943C00EB6566 /* loading-33.png in Resources */,
+				342D38D31D43943C00EB6566 /* 4s-fullsize.png in Resources */,
 				342D38B81D4382F100EB6566 /* LaunchScreen.storyboard in Resources */,
+				342D38E41D43943C00EB6566 /* UIStackView-with-Size-Classes.png in Resources */,
+				342D38D71D43943C00EB6566 /* 6-fullsize.png in Resources */,
+				342D38E11D43943C00EB6566 /* SketchDesign.png in Resources */,
+				342D38D61D43943C00EB6566 /* 5s-smallsize.png in Resources */,
+				342D38DB1D43943C00EB6566 /* 6plus-fullsize.png in Resources */,
+				342D38DE1D43943C00EB6566 /* IBDesignable-IBInspectable.png in Resources */,
+				342D38DD1D43943C00EB6566 /* Custom-UIView.png in Resources */,
+				342D38E51D43943C00EB6566 /* UIStackView.png in Resources */,
+				342D38E31D43943C00EB6566 /* Swift-Weather-33.png in Resources */,
+				342D38D81D43943C00EB6566 /* 6-smallsize.png in Resources */,
 				342D38B51D4382F100EB6566 /* Assets.xcassets in Resources */,
+				342D38D51D43943C00EB6566 /* 5s-fullsize.png in Resources */,
+				342D38DC1D43943C00EB6566 /* 6plus-smallsize.png in Resources */,
+				342D38E21D43943C00EB6566 /* Swift Weather.png in Resources */,
 				342D38B31D4382F100EB6566 /* Main.storyboard in Resources */,
+				342D38D41D43943C00EB6566 /* 4s-smallsize.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		973D57BD98166D5A77B7E85F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F7EB7DF2F78A8F921236511F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Swift Weather/Pods-Swift Weather-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FA767EE142B086387578561E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Swift Weather/Pods-Swift Weather-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		342D38A61D4382F100EB6566 /* Sources */ = {
@@ -248,6 +407,7 @@
 		};
 		342D38BD1D4382F100EB6566 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5CDCC53A498A4D948334A9A9 /* Pods-Swift Weather.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Swift Weather/Info.plist";
@@ -259,6 +419,7 @@
 		};
 		342D38BE1D4382F100EB6566 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EDCB0B59DBCCD54D7E6E721B /* Pods-Swift Weather.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Swift Weather/Info.plist";
@@ -287,6 +448,7 @@
 				342D38BE1D4382F100EB6566 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

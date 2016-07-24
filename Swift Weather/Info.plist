@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationUsageDescription</key>
+	<string>我们需要使用你的地理位置信息</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -28,6 +30,9 @@
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
+		<string>magnetometer</string>
+		<string>gps</string>
+		<string>Location-services</string>
 		<string>armv7</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
